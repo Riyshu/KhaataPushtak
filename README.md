@@ -77,14 +77,14 @@ KhaataPushtak/
 
 
 ## 📝 Usage
--Navigate to /create to make a new daily record.
--Click on any record from the home page to view or edit it.
--Use the delete option to remove a record from /hisaab.
+-**Navigate to /create to make a new daily record.**
+-**Click on any record from the home page to view or edit it.**
+-**Use the delete option to remove a record from /hisaab.**
 
 ## 🗓️ Roadmap / Future Updates
--Database Support: Migrate from .txt file storage to database for better scalability and security.
--User Authentication: Add login/register system for multi-user use.
--Search & Filter: Quickly find past records.
--Export Data: Export records to CSV or PDF.
+-**Database Support: Migrate from .txt file storage to database for better scalability and security.**
+-**User Authentication: Add login/register system for multi-user use.**
+-**Search & Filter: Quickly find past records.**
+-**Export Data: Export records to CSV or PDF.**
 
 
