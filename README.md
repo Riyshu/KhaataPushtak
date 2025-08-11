@@ -67,7 +67,14 @@ KhaataPushtak/
    ```
 
 ## 📸 Screenshots
-(Add screenshots of your app here for better presentation)
+<img width="1366" height="687" alt="image" src="https://github.com/user-attachments/assets/ca263f1a-f36c-4cbb-9311-ea799c9dfeee" />
+
+---👇Page Of creating new Hisaab*👇---
+
+<img width="1360" height="643" alt="image" src="https://github.com/user-attachments/assets/71fe5e54-c4e6-4c6e-99d3-d584a405f3ab" />
+
+
+
 
 ## 📝 Usage
 -Navigate to /create to make a new daily record.
