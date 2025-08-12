@@ -4,7 +4,7 @@ KhaataPushtak is a lightweight, file-based bookkeeping web application inspired 
 It allows you to easily **create, edit, view, and delete daily transaction records** — stored locally as `.txt` files — using a clean and simple web interface.
 
 > **Future Plans:**  
-> In upcoming updates, KhaataPushtak will support **database integration** (MySQL/PostgreSQL or MongoDB) for more scalability, search features, and better data management.
+> In upcoming updates, KhaataPushtak will support **database integration** (MySQL/PostgreSQL or MongoDB) for more scalability, search features, and better data management.And also I will make a better UI in future for my Webpage.
 
 ---
 
